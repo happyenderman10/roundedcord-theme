@@ -1,0 +1,39 @@
+/**
+ * @name RoundedCord
+ * @author Happy enderman
+ * @version 1.0.0
+ * @description Discord is rounded now!.
+*/
+button {
+  border-radius: 10px;
+}
+div{
+  border-radius: 10px;
+}
+img{
+  border-radius: 9px;
+}
+
+div.wrapper-3kah-n.selected-1Drb7Z {
+  border-radius: 10px;
+}
+
+div.circleIconButton-1VxDrg.selected-2r1Hvo {
+  border-radius: 10px;
+}
+
+button.inviteRowButton-3hcOhY.button-f2h6uQ.lookFilled-yCfaCM.colorGreen-3y-Z79.sizeSmall-wU2dO-.grow-2sR_-F {
+  color: black;
+  border-color: #5865F2;
+  background-color: #5865F2;
+  outline-color: #5865F2;
+}
+
+input.inputDefault-3FGxgL.input-2g-os5 {
+  border-radius: 10px;
+}
+
+textarea.inputDefault-3FGxgL.input-2g-os5.textArea-3WXAeD.scrollbarDefault-2w-Dyz.scrollbar-3vVt8d.scrollbarGhostHairline-2LpzZ9.scrollbar-3vVt8d {
+  border-radius: 10px;
+}
+
